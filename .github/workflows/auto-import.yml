@@ -1,0 +1,59 @@
+name: 🤖 Auto-Import Products
+
+on:
+  # Exécution automatique toutes les 6 heures
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # Permet l'exécution manuelle depuis GitHub
+  workflow_dispatch:
+
+jobs:
+  scrape-and-import:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: 📦 Install dependencies
+        run: |
+          npm install puppeteer
+          npm install axios cheerio
+      
+      - name: 🤖 Run scraper
+        run: node scripts/scraper.js
+        env:
+          NODE_ENV: production
+      
+      - name: 📊 Check if products were found
+        run: |
+          if [ -f src/data/auto-products.json ]; then
+            echo "✅ Products file created successfully"
+            cat src/data/auto-products.json | head -20
+          else
+            echo "❌ No products file found"
+            exit 1
+          fi
+      
+      - name: 💾 Commit and push if changed
+        run: |
+          git config --local user.email "auto-import@fitboost.pro"
+          git config --local user.name "FitBoost Auto-Import Bot"
+          git add src/data/auto-products.json
+          git diff --staged --quiet || git commit -m "🤖 Auto-import: $(date +'%Y-%m-%d %H:%M')"
+          git push
+        continue-on-error: true
+      
+      - name: 📈 Summary
+        run: |
+          echo "🎉 Auto-import completed successfully!"
+          echo "📅 Date: $(date)"
+          echo "📦 Products updated in src/data/auto-products.json"
