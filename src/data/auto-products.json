@@ -1,0 +1,378 @@
+[
+  {
+    "id": "auto-1760313896737-pxug3ukox",
+    "slug": "bandes-elastiques-fitness-set-premium",
+    "name": {
+      "fr": "Bandes Élastiques Fitness Set Premium",
+      "en": "Premium Fitness Resistance Bands Set",
+      "es": "Set Bandas Elásticas Fitness Premium"
+    },
+    "category": "fitness-musculation",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1598971861713-54d03bc4b0d7?w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1598971861713-54d03bc4b0d7?w=800"
+      ]
+    },
+    "description": {
+      "short": {
+        "fr": "Set de 5 bandes élastiques professionnelles. Résistance progressive 5-70kg. Parfait musculation et rééducation.",
+        "en": "Set of 5 professional resistance bands. Progressive resistance 5-70kg. Perfect for strength training and rehab.",
+        "es": "Set de 5 bandas elásticas profesionales. Resistencia progresiva 5-70kg. Perfecto para musculación y rehabilitación."
+      },
+      "full": {
+        "fr": "Set de 5 bandes élastiques professionnelles. Résistance progressive 5-70kg. Parfait musculation et rééducation.",
+        "en": "Set of 5 professional resistance bands. Progressive resistance 5-70kg. Perfect for strength training and rehab.",
+        "es": "Set de 5 bandas elásticas profesionales. Resistencia progresiva 5-70kg. Perfecto para musculación y rehabilitación."
+      }
+    },
+    "price": {
+      "current": 24.99,
+      "original": 34.99,
+      "currency": "€"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3421
+    },
+    "features": [],
+    "tags": [
+      "best-seller",
+      "trending"
+    ],
+    "affiliation": {
+      "site": "Amazon",
+      "url": "https://amazon.fr/dp/B08XYZ1234",
+      "trackingCode": ""
+    },
+    "seo": {
+      "metaTitle": "Bandes Élastiques Fitness Set Premium",
+      "metaDescription": "Set de 5 bandes élastiques professionnelles. Résistance progressive 5-70kg. Parfait musculation et rééducation.",
+      "keywords": [
+        "best-seller",
+        "trending"
+      ]
+    },
+    "visibility": {
+      "status": "active",
+      "showOnHomepage": true,
+      "showInTrending": true,
+      "showInNew": true
+    },
+    "statistics": {
+      "clicks": 0,
+      "views": 0
+    },
+    "autoImport": {
+      "imported": true,
+      "importDate": "2025-10-13T00:04:56.739Z",
+      "source": "amazon",
+      "externalId": "AMZ-1760313896736-1",
+      "salesRank": 1,
+      "commission": 4
+    },
+    "createdAt": "2025-10-13T00:04:56.739Z",
+    "updatedAt": "2025-10-13T00:04:56.739Z"
+  },
+  {
+    "id": "auto-1760313896739-yi8moql36",
+    "slug": "whey-protein-isolate-1kg-chocolat",
+    "name": {
+      "fr": "Whey Protein Isolate 1kg Chocolat",
+      "en": "Whey Protein Isolate 1kg Chocolate",
+      "es": "Proteína Whey Isolate 1kg Chocolate"
+    },
+    "category": "nutrition-supplements",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800"
+      ]
+    },
+    "description": {
+      "short": {
+        "fr": "Whey Isolate 90% protéines. Faible en sucres et graisses. Absorption rapide. Goût chocolat premium.",
+        "en": "Whey Isolate 90% protein. Low in sugar and fat. Fast absorption. Premium chocolate flavor.",
+        "es": "Whey Isolate 90% proteínas. Bajo en azúcares y grasas. Absorción rápida. Sabor chocolate premium."
+      },
+      "full": {
+        "fr": "Whey Isolate 90% protéines. Faible en sucres et graisses. Absorption rapide. Goût chocolat premium.",
+        "en": "Whey Isolate 90% protein. Low in sugar and fat. Fast absorption. Premium chocolate flavor.",
+        "es": "Whey Isolate 90% proteínas. Bajo en azúcares y grasas. Absorción rápida. Sabor chocolate premium."
+      }
+    },
+    "price": {
+      "current": 39.99,
+      "original": 54.99,
+      "currency": "€"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 5234
+    },
+    "features": [],
+    "tags": [
+      "best-seller",
+      "promo",
+      "high-protein"
+    ],
+    "affiliation": {
+      "site": "MyProtein",
+      "url": "https://myprotein.fr/whey-isolate",
+      "trackingCode": ""
+    },
+    "seo": {
+      "metaTitle": "Whey Protein Isolate 1kg Chocolat",
+      "metaDescription": "Whey Isolate 90% protéines. Faible en sucres et graisses. Absorption rapide. Goût chocolat premium.",
+      "keywords": [
+        "best-seller",
+        "promo",
+        "high-protein"
+      ]
+    },
+    "visibility": {
+      "status": "active",
+      "showOnHomepage": true,
+      "showInTrending": true,
+      "showInNew": true
+    },
+    "statistics": {
+      "clicks": 0,
+      "views": 0
+    },
+    "autoImport": {
+      "imported": true,
+      "importDate": "2025-10-13T00:04:56.739Z",
+      "source": "myprotein",
+      "externalId": "MP-1760313896736-1",
+      "salesRank": 1,
+      "commission": 12
+    },
+    "createdAt": "2025-10-13T00:04:56.739Z",
+    "updatedAt": "2025-10-13T00:04:56.739Z"
+  },
+  {
+    "id": "auto-1760313896739-7pnnr7zri",
+    "slug": "tapis-yoga-antiderapant-premium-6mm",
+    "name": {
+      "fr": "Tapis Yoga Antidérapant Premium 6mm",
+      "en": "Premium Non-Slip Yoga Mat 6mm",
+      "es": "Esterilla Yoga Antideslizante Premium 6mm"
+    },
+    "category": "yoga-pilates",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=800"
+      ]
+    },
+    "description": {
+      "short": {
+        "fr": "Tapis yoga écologique TPE 6mm. Double face antidérapante. 183x61cm. Léger et durable.",
+        "en": "Eco-friendly TPE yoga mat 6mm. Double-sided non-slip. 183x61cm. Lightweight and durable.",
+        "es": "Esterilla yoga ecológica TPE 6mm. Doble cara antideslizante. 183x61cm. Ligera y duradera."
+      },
+      "full": {
+        "fr": "Tapis yoga écologique TPE 6mm. Double face antidérapante. 183x61cm. Léger et durable.",
+        "en": "Eco-friendly TPE yoga mat 6mm. Double-sided non-slip. 183x61cm. Lightweight and durable.",
+        "es": "Esterilla yoga ecológica TPE 6mm. Doble cara antideslizante. 183x61cm. Ligera y duradera."
+      }
+    },
+    "price": {
+      "current": 34.99,
+      "original": 49.99,
+      "currency": "€"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2847
+    },
+    "features": [],
+    "tags": [
+      "best-seller",
+      "eco"
+    ],
+    "affiliation": {
+      "site": "Amazon",
+      "url": "https://amazon.fr/dp/B09ABC5678",
+      "trackingCode": ""
+    },
+    "seo": {
+      "metaTitle": "Tapis Yoga Antidérapant Premium 6mm",
+      "metaDescription": "Tapis yoga écologique TPE 6mm. Double face antidérapante. 183x61cm. Léger et durable.",
+      "keywords": [
+        "best-seller",
+        "eco"
+      ]
+    },
+    "visibility": {
+      "status": "active",
+      "showOnHomepage": true,
+      "showInTrending": true,
+      "showInNew": true
+    },
+    "statistics": {
+      "clicks": 0,
+      "views": 0
+    },
+    "autoImport": {
+      "imported": true,
+      "importDate": "2025-10-13T00:04:56.740Z",
+      "source": "amazon",
+      "externalId": "AMZ-1760313896736-2",
+      "salesRank": 3,
+      "commission": 4
+    },
+    "createdAt": "2025-10-13T00:04:56.740Z",
+    "updatedAt": "2025-10-13T00:04:56.740Z"
+  },
+  {
+    "id": "auto-1760313896740-ltbv7hdc7",
+    "slug": "creatine-monohydrate-micronisee-500g",
+    "name": {
+      "fr": "Créatine Monohydrate Micronisée 500g",
+      "en": "Micronized Creatine Monohydrate 500g",
+      "es": "Creatina Monohidrato Micronizada 500g"
+    },
+    "category": "nutrition-supplements",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=800"
+      ]
+    },
+    "description": {
+      "short": {
+        "fr": "Créatine pure 99.9%. Améliore performances et force. 100 portions. Sans goût.",
+        "en": "Pure creatine 99.9%. Improves performance and strength. 100 servings. Unflavored.",
+        "es": "Creatina pura 99.9%. Mejora rendimiento y fuerza. 100 porciones. Sin sabor."
+      },
+      "full": {
+        "fr": "Créatine pure 99.9%. Améliore performances et force. 100 portions. Sans goût.",
+        "en": "Pure creatine 99.9%. Improves performance and strength. 100 servings. Unflavored.",
+        "es": "Creatina pura 99.9%. Mejora rendimiento y fuerza. 100 porciones. Sin sabor."
+      }
+    },
+    "price": {
+      "current": 19.99,
+      "currency": "€"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 6421
+    },
+    "features": [],
+    "tags": [
+      "best-seller",
+      "essential"
+    ],
+    "affiliation": {
+      "site": "MyProtein",
+      "url": "https://myprotein.fr/creatine",
+      "trackingCode": ""
+    },
+    "seo": {
+      "metaTitle": "Créatine Monohydrate Micronisée 500g",
+      "metaDescription": "Créatine pure 99.9%. Améliore performances et force. 100 portions. Sans goût.",
+      "keywords": [
+        "best-seller",
+        "essential"
+      ]
+    },
+    "visibility": {
+      "status": "active",
+      "showOnHomepage": true,
+      "showInTrending": true,
+      "showInNew": true
+    },
+    "statistics": {
+      "clicks": 0,
+      "views": 0
+    },
+    "autoImport": {
+      "imported": true,
+      "importDate": "2025-10-13T00:04:56.740Z",
+      "source": "myprotein",
+      "externalId": "MP-1760313896736-2",
+      "salesRank": 2,
+      "commission": 10
+    },
+    "createdAt": "2025-10-13T00:04:56.740Z",
+    "updatedAt": "2025-10-13T00:04:56.740Z"
+  },
+  {
+    "id": "auto-1760313896740-eey6bl7vc",
+    "slug": "montre-sport-gps-multisport",
+    "name": {
+      "fr": "Montre Sport GPS Multisport",
+      "en": "Multisport GPS Sports Watch",
+      "es": "Reloj Deportivo GPS Multideporte"
+    },
+    "category": "running-cardio",
+    "images": {
+      "main": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800",
+      "gallery": [
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800"
+      ]
+    },
+    "description": {
+      "short": {
+        "fr": "Montre GPS avec cardio au poignet. 20 modes sport. Étanche 50m. Autonomie 7 jours.",
+        "en": "GPS watch with wrist heart rate. 20 sport modes. 50m waterproof. 7-day battery.",
+        "es": "Reloj GPS con cardio en muñeca. 20 modos deporte. Resistente 50m. Batería 7 días."
+      },
+      "full": {
+        "fr": "Montre GPS avec cardio au poignet. 20 modes sport. Étanche 50m. Autonomie 7 jours.",
+        "en": "GPS watch with wrist heart rate. 20 sport modes. 50m waterproof. 7-day battery.",
+        "es": "Reloj GPS con cardio en muñeca. 20 modos deporte. Resistente 50m. Batería 7 días."
+      }
+    },
+    "price": {
+      "current": 129.99,
+      "original": 179.99,
+      "currency": "€"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4125
+    },
+    "features": [],
+    "tags": [
+      "trending",
+      "promo"
+    ],
+    "affiliation": {
+      "site": "Amazon",
+      "url": "https://amazon.fr/dp/B07DEF9012",
+      "trackingCode": ""
+    },
+    "seo": {
+      "metaTitle": "Montre Sport GPS Multisport",
+      "metaDescription": "Montre GPS avec cardio au poignet. 20 modes sport. Étanche 50m. Autonomie 7 jours.",
+      "keywords": [
+        "trending",
+        "promo"
+      ]
+    },
+    "visibility": {
+      "status": "active",
+      "showOnHomepage": false,
+      "showInTrending": true,
+      "showInNew": true
+    },
+    "statistics": {
+      "clicks": 0,
+      "views": 0
+    },
+    "autoImport": {
+      "imported": true,
+      "importDate": "2025-10-13T00:04:56.740Z",
+      "source": "amazon",
+      "externalId": "AMZ-1760313896736-3",
+      "salesRank": 5,
+      "commission": 3
+    },
+    "createdAt": "2025-10-13T00:04:56.740Z",
+    "updatedAt": "2025-10-13T00:04:56.740Z"
+  }
+]

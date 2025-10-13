@@ -1,0 +1,20 @@
+# Robots.txt optimisé pour SEO
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+
+# Sitemaps
+Sitemap: https://votresite.com/sitemap.xml
+Sitemap: https://votresite.com/sitemap-products.xml
+Sitemap: https://votresite.com/sitemap-blog.xml
+
+# Crawl-delay pour éviter la surcharge
+Crawl-delay: 1
+
+# Bots spécifiques
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
