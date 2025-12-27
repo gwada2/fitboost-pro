@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-1766800024682-lks4jazyf",
+    "id": "auto-1766817224272-k7b0grc0m",
     "slug": "bandes-elastiques-fitness-set-premium",
     "name": {
       "fr": "Bandes Élastiques Fitness Set Premium",
@@ -65,17 +65,17 @@
     },
     "autoImport": {
       "imported": true,
-      "importDate": "2025-12-27T01:47:04.683Z",
+      "importDate": "2025-12-27T06:33:44.272Z",
       "source": "amazon",
-      "externalId": "AMZ-1766800024682-1",
+      "externalId": "AMZ-1766817224272-1",
       "salesRank": 1,
       "commission": 4
     },
-    "createdAt": "2025-12-27T01:47:04.683Z",
-    "updatedAt": "2025-12-27T01:47:04.683Z"
+    "createdAt": "2025-12-27T06:33:44.272Z",
+    "updatedAt": "2025-12-27T06:33:44.272Z"
   },
   {
-    "id": "auto-1766800024683-h2du81b81",
+    "id": "auto-1766817224272-owoqomb1l",
     "slug": "whey-protein-isolate-1kg-chocolat",
     "name": {
       "fr": "Whey Protein Isolate 1kg Chocolat",
@@ -142,17 +142,17 @@
     },
     "autoImport": {
       "imported": true,
-      "importDate": "2025-12-27T01:47:04.683Z",
+      "importDate": "2025-12-27T06:33:44.273Z",
       "source": "myprotein",
-      "externalId": "MP-1766800024682-1",
+      "externalId": "MP-1766817224272-1",
       "salesRank": 1,
       "commission": 12
     },
-    "createdAt": "2025-12-27T01:47:04.683Z",
-    "updatedAt": "2025-12-27T01:47:04.683Z"
+    "createdAt": "2025-12-27T06:33:44.273Z",
+    "updatedAt": "2025-12-27T06:33:44.273Z"
   },
   {
-    "id": "auto-1766800024683-llh85o64j",
+    "id": "auto-1766817224273-g0nb5wji4",
     "slug": "tapis-yoga-antiderapant-premium-6mm",
     "name": {
       "fr": "Tapis Yoga Antidérapant Premium 6mm",
@@ -217,17 +217,17 @@
     },
     "autoImport": {
       "imported": true,
-      "importDate": "2025-12-27T01:47:04.683Z",
+      "importDate": "2025-12-27T06:33:44.273Z",
       "source": "amazon",
-      "externalId": "AMZ-1766800024682-2",
+      "externalId": "AMZ-1766817224272-2",
       "salesRank": 3,
       "commission": 4
     },
-    "createdAt": "2025-12-27T01:47:04.683Z",
-    "updatedAt": "2025-12-27T01:47:04.683Z"
+    "createdAt": "2025-12-27T06:33:44.273Z",
+    "updatedAt": "2025-12-27T06:33:44.273Z"
   },
   {
-    "id": "auto-1766800024683-e7peh920e",
+    "id": "auto-1766817224273-6ws7ucyye",
     "slug": "creatine-monohydrate-micronisee-500g",
     "name": {
       "fr": "Créatine Monohydrate Micronisée 500g",
@@ -291,17 +291,17 @@
     },
     "autoImport": {
       "imported": true,
-      "importDate": "2025-12-27T01:47:04.683Z",
+      "importDate": "2025-12-27T06:33:44.273Z",
       "source": "myprotein",
-      "externalId": "MP-1766800024682-2",
+      "externalId": "MP-1766817224272-2",
       "salesRank": 2,
       "commission": 10
     },
-    "createdAt": "2025-12-27T01:47:04.683Z",
-    "updatedAt": "2025-12-27T01:47:04.683Z"
+    "createdAt": "2025-12-27T06:33:44.273Z",
+    "updatedAt": "2025-12-27T06:33:44.273Z"
   },
   {
-    "id": "auto-1766800024683-tthhkqx3m",
+    "id": "auto-1766817224273-jjppsqrv3",
     "slug": "montre-sport-gps-multisport",
     "name": {
       "fr": "Montre Sport GPS Multisport",
@@ -366,13 +366,13 @@
     },
     "autoImport": {
       "imported": true,
-      "importDate": "2025-12-27T01:47:04.683Z",
+      "importDate": "2025-12-27T06:33:44.273Z",
       "source": "amazon",
-      "externalId": "AMZ-1766800024682-3",
+      "externalId": "AMZ-1766817224272-3",
       "salesRank": 5,
       "commission": 3
     },
-    "createdAt": "2025-12-27T01:47:04.683Z",
-    "updatedAt": "2025-12-27T01:47:04.683Z"
+    "createdAt": "2025-12-27T06:33:44.273Z",
+    "updatedAt": "2025-12-27T06:33:44.273Z"
   }
 ]
